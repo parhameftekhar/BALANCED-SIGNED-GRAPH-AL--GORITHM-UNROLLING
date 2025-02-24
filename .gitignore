@@ -1,3 +1,4 @@
+.gitignore
 ./git
 ./pycache_
 ./results/*
